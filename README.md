@@ -3,7 +3,7 @@
 yuzuです。  
 Minecraft大好き人間です。  
 Python,C++,C#,PHP,Perl話者です。  
-Java,Kotlin勉強中  
+Java,Kotlin絶賛勉強中!  
 ## 参加させていただいているプロジェクト
 [@Hiiragi283](https://github.com/Hiiragi283)氏の[RagiMaterials](https://github.com/Hiiragi283/RagiMaterials)にデバッガとして  
 # English
