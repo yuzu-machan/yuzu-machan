@@ -4,7 +4,7 @@ yuzuです。
 Python,C++,C#,PHP,Node.js(TS)話者です。  
 Java,Kotlin絶賛勉強中!  
 ## 参加させていただいているプロジェクト
-[@Hiiragi283](https://github.com/Hiiragi283)氏の[Ragium](https://github.com/Hiiragi283/ragium))にデバッガとして  
+[@Hiiragi283](https://github.com/Hiiragi283)氏の[Ragium](https://github.com/Hiiragi283/ragium)にデバッガとして  
 # English
 ## self introduction
 My name is yuzu.  
