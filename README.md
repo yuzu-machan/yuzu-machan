@@ -12,4 +12,4 @@ I am a Minecraft lover.
 I can use Python, C++, C#, PHP, Node.js(TS).  
 Currently studying Java and Kotlin.  
 ## Projects in which we are participating
-As a debugger for Mr. [@Hiiragi283](https://github.com/Hiiragi283)'s [Ragium](https://github.com/Hiiragi283/ragium)).  
+As a debugger for Mr. [@Hiiragi283](https://github.com/Hiiragi283)'s [Ragium](https://github.com/Hiiragi283/ragium).  
